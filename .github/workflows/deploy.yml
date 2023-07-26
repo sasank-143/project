@@ -9,7 +9,7 @@ jobs:
       - name: install nodejs
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node_version: 18
       - name: install dependencies
         run: npm ci
       - name: run tests
