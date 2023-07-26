@@ -1,5 +1,6 @@
 hello world
 take you
-mak eyoui
+<<<<<<< HEAD
 this was made by first person
-
+this was made by second person
+>>>>>>> 5a47dba6c8b625734b60d17686fa3489f88d392a
